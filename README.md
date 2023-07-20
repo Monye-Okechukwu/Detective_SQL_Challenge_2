@@ -9,4 +9,4 @@ As a skilled data analyst proficient in SQL, I fearlessly tackled a baffling mur
 
 The links below properly shows how everything was done to get the murderers
 - [Documentation on the investigative process]()
-- [Repository]()
+- [Repository](https://github.com/Monye-Okechukwu/Detective_SQL_Challenge_2/tree/main/Detective_SQL)

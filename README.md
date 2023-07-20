@@ -24,5 +24,5 @@ So, with determination in my heart and a database as my guide, I invite you to j
 Welcome to *Detective SQL: Unravelling the Murder Mystery.* Let's embark on this thrilling adventure together.
 
 The links below aptly showcase how I meticulously unravelled the mysteries behind the murderers:
-- [Documentation on the investigative process]()
+- [Documentation on the investigative process](https://noelshalom14.medium.com/detective-sql-unravelling-the-murder-mystery-e3f284b39ad1)
 - [Repository](https://github.com/Monye-Okechukwu/Detective_SQL_Challenge_2/tree/main/Detective_SQL)
